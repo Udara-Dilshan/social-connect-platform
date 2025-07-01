@@ -28,7 +28,9 @@ A beautiful, modern social media platform built with React, TypeScript, and Tail
 # The platform is now live and ready to explore! 
 
 🔗 Live Demo:https://lnkd.in/gpzVPmWU
+
 🔗 GitHub Repository :https://github.com/Udara-Dilshan/social-connect-platform
+
 🔗 Linkedin Post:https://www.linkedin.com/posts/gamage-udara-dilshan_webdevelopment-react-typescript-activity-7344927656255070209-0W51?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdUtYIBjz7k0IOVrbQVYknLJ9aUcVJE_gA
 
 
